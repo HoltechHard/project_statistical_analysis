@@ -1,2 +1,4 @@
 # statistical_analysis
-Statistical Analysis for Data
+Projects of Statistical Analysis for Data
+1. Categorical Data Analysis
+
